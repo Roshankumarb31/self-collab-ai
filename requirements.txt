@@ -2,3 +2,5 @@ python-dotenv
 langchain
 langchain-google-genai
 fastapi[all]
+google-ai-generativelanguage
+pyttsx3
